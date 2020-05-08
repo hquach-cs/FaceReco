@@ -7,8 +7,9 @@ verify_ssl = true
 
 [packages]
 opencv-python = "*"
-dlib = "*"
 numpy = "*"
+matplotlib = "*"
+scikit-image = "*"
 
 [requires]
 python_version = "3.8"
