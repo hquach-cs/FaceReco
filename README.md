@@ -24,3 +24,5 @@ List of Algorithms:
 
 
 ## Future
+* Creating my own 'Neural Network' trained on my face
+* Other Algorithms
